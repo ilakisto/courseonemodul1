@@ -4,6 +4,30 @@ body{
     background-color: #FFFADA;
 }
 
-section{
-    height: 65vw;
+.head3{
+    position: absolute;
+    font-size: 13vw;
+    align-items: center;
+    color: #0E234F;
+    margin-left: 18vw;
+    margin-top: 23vw;
 }
+
+.head2{
+    position: absolute;
+    font-size: 13vw;
+    z-index: 2;
+    color: #1A7A33;
+    margin-left: 66.37vw;
+    margin-top: 23vw;
+}
+
+.head1{
+    position: absolute;
+    font-size: 13vw;
+    align-items: center;
+    color: #0E234F;
+    margin-left: 66vw;
+    margin-top: 13vw
+}
+
