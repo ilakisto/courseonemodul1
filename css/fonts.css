@@ -1,11 +1,11 @@
 @font-face{
-    font-family: "RevolutionGothic";
-    src: url(../fonts/Revolution\ Gothic\ ExtraBold.ttf);
+    font-family: "AlumniSans";
+    src: url(../fonts/AlumniSans-ExtraBold.ttf);
     font-weight: 400;
     font-style: normal;
 }
 h1{
-    font-family: "RevolutionGothic";
+    font-family: "AlumniSans";
 }
 
 @font-face{
